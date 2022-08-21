@@ -1,0 +1,28 @@
+
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav{
+    background-color:dimgray;
+}
+
+
+#Hero-Section {
+    background-image: url("../img/portada2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:top;
+  }
+
+  #Mis-trabajos {
+    background-color: darkslategray;
+  }
+
+  #Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+ }
+  
